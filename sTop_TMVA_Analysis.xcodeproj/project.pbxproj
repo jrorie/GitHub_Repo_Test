@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		13FBFA1D1B7D47E200813A0D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 13FBFA1C1B7D47E200813A0D /* main.cpp */; };
+		13FBFA241B7D4CC500813A0D /* TMVAClassification_sTop_Search.C in Sources */ = {isa = PBXBuildFile; fileRef = 13FBFA231B7D4CC500813A0D /* TMVAClassification_sTop_Search.C */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		13FBFA191B7D47E200813A0D /* sTop_TMVA_Analysis */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = sTop_TMVA_Analysis; sourceTree = BUILT_PRODUCTS_DIR; };
-		13FBFA1C1B7D47E200813A0D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		13FBFA231B7D4CC500813A0D /* TMVAClassification_sTop_Search.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TMVAClassification_sTop_Search.C; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		13FBFA1B1B7D47E200813A0D /* sTop_TMVA_Analysis */ = {
 			isa = PBXGroup;
 			children = (
-				13FBFA1C1B7D47E200813A0D /* main.cpp */,
+				13FBFA231B7D4CC500813A0D /* TMVAClassification_sTop_Search.C */,
 			);
 			path = sTop_TMVA_Analysis;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				13FBFA1D1B7D47E200813A0D /* main.cpp in Sources */,
+				13FBFA241B7D4CC500813A0D /* TMVAClassification_sTop_Search.C in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
